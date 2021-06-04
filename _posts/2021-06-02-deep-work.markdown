@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Benefits of Working deep"
+permalink: /deep-work/
+---
+
+This is my blog about deep work. I won't publish it just yet, but I will write things down in it when I get time. See the attached image:
+
+![deep-work-book](/assets/deep_work_book.jpg)
